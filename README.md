@@ -14,3 +14,5 @@ USAGE:
 ⚠️⚠️⚠️ thoses little characters are really greedy since the each have their own window so don't go too crazy and start with a little number
 (above 5 is already hard for little pc). You may freeze your screen and overuse you CPU/GPU (i have a friend whose pc's security litteraly killed the program 
 because it was taking too much ressources lmao).
+
+ps: I couldn't find correct spritesheet so the amogus run only in one direction and the "death event" isn't well centered.
